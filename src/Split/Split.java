@@ -1,4 +1,5 @@
 package Split;
+import User.User;
 
 public class Split {
     User user;
